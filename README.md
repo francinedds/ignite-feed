@@ -1,4 +1,4 @@
-# Projeto 'Fundamentos ReactJS' da @ Rocketseat Ignite Feed
+# Projeto Ignite Feed da @ Rocketseat
 
 This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
 
